@@ -10,6 +10,10 @@ I build AI and developer platforms for organizations where security isn't a feat
 
 - **AI Product Manager @ Israel Aerospace Industries (IAI)** — first person in the role. Leading organization-wide AI adoption and the rollout of AI coding assistants in an air-gapped environment, including the governance architecture needed for security approval.
 
+### Building
+
+- **Switchboard** *(early stage)* — a governance layer for AI agents running in closed and high-security networks: visibility and control over what agents do inside the organization.
+
 ### Previously
 
 - **Platform Product Manager — IDF Tech Unit (DevOps platform team)** — owned an internal developer platform serving thousands of users on an air-gapped network: LLM chat, RAG retrieval, AI coding assistants, and core DevOps tooling (Artifactory, GitLab, Atlassian, analytics).
